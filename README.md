@@ -5,7 +5,7 @@ Nario's christmas tale
 
 ## Release
 
-The game is available on [itch.io](https://raza6.itch.io/super-nario-story-episode-3) and has been first released the 01/01/2019.
+The game is available on [itch.io](https://raza6.itch.io/super-nario-story-episode-3) and has been first released the 01/01/2020.
 
 ## Installation
 
