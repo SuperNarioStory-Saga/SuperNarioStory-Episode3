@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: 16ff87659d53ae04b8634e73228ac4d7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3523747777097730566
+    second: Icekass_0
+  - first:
+      213: 5889790795747407853
+    second: Icekass_1
+  - first:
+      213: 7029645940039381386
+    second: Icekass_2
+  - first:
+      213: 1394069267457936300
+    second: Icekass_3
+  - first:
+      213: -8138119863181303123
+    second: Icekass_4
+  - first:
+      213: 8139801329351868699
+    second: Icekass_5
+  - first:
+      213: 7012631401842179854
+    second: Icekass_6
+  - first:
+      213: 2458652212285061391
+    second: Icekass_7
+  - first:
+      213: -8383459138241990728
+    second: Icekass_8
+  - first:
+      213: 3447381923907629860
+    second: Icekass_9
+  - first:
+      213: -6123301250785957638
+    second: Icekass_10
+  - first:
+      213: 6670549260713999682
+    second: Icekass_11
+  - first:
+      213: 2355629943856712992
+    second: Icekass_15
+  - first:
+      213: 1989776774178378448
+    second: Icekass_18
+  - first:
+      213: 3402049015595138716
+    second: Icekass_19
+  - first:
+      213: -8949474971097379869
+    second: Icekass_20
+  - first:
+      213: -4498584676647219809
+    second: Icekass_21
+  - first:
+      213: 369066511677659626
+    second: Icekass_22
+  - first:
+      213: -7986638768929687317
+    second: Icekass_23
+  - first:
+      213: -1875958056828417901
+    second: Icekass_24
+  - first:
+      213: -106248613039811580
+    second: Icekass_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icekass_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 76
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479e67b2403ad6745b0754eea340d1e9
+      internalID: -3523747777097730566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 76
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ffe45f7aeb4fc4386beb431948c767
+      internalID: 5889790795747407853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_2
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 76
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4a950b5fd68a7478d5f74445e0477f
+      internalID: 7029645940039381386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 76
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d371566c8e2524e479dc18ba82699fe7
+      internalID: 1394069267457936300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 76
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd85e72eb53c4df4c99e5fc371e2337c
+      internalID: -8138119863181303123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 76
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f28acdf1191894c8ad175877d9ca51
+      internalID: 8139801329351868699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 76
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b140582b675814946bdcca331d9f5f17
+      internalID: 7012631401842179854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 76
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803b157bd9d13a640a3374a3f252d587
+      internalID: 2458652212285061391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_8
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 76
+        width: 18
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fd15563ec99d74bb7297a29f87c322
+      internalID: -8383459138241990728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_9
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 76
+        width: 19
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c8373b61eeffc4ba7459675b70c8a5
+      internalID: 3447381923907629860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 76
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa52c76d5a79c0f4683247e415a8db1b
+      internalID: -6123301250785957638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_11
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 76
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87658303206496f42bee932993ceeaf2
+      internalID: 6670549260713999682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_15
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 19
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7840845ee4a07a41bd396135c6b0299
+      internalID: 2355629943856712992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_18
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 19
+        width: 22
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c895fa3de502242a085cf95008474e
+      internalID: 1989776774178378448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 19
+        width: 18
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef5d37b8f875cf4e9d4cf78cfcb5b5f
+      internalID: 3402049015595138716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 19
+        width: 22
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea34758f38d5974ab65a98990e595e7
+      internalID: -8949474971097379869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 19
+        width: 22
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0882160275642a47a66b7e43b9b226d
+      internalID: -4498584676647219809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 19
+        width: 22
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb77f2fea135d5f4c8e41cd67fbaa612
+      internalID: 369066511677659626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_23
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 19
+        width: 22
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6803b02e8bee045a65dcd7af50129f
+      internalID: -7986638768929687317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_24
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 19
+        width: 22
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e31b51a9d4b5404ea913d8924e178f1
+      internalID: -1875958056828417901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icekass_25
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 19
+        width: 22
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc486501bd5e18e47a2ebe6eb9ac9e55
+      internalID: -106248613039811580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
